@@ -1,6 +1,6 @@
 # Mobile Sales Dashboard
 
-Live Power BI Dashboard: [https://tinyurl.com/yp4dbkr5](https://tinyurl.com/yp4dbkr5)  
+Live Power BI Dashboard: https://shorturl.at/Ly9qY  
 GitHub Repository: [https://github.com/Bhakti261/Mobile-Sales](https://github.com/Bhakti261/Mobile-Sales)
 
 ## Project Overview
