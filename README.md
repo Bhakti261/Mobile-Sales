@@ -30,7 +30,7 @@ It focuses on:
 To create an easy-to-use Power BI dashboard that helps businesses monitor mobile sales and improve decision-making through visual insights.
 
 ## Links
-Live Power BI Dashboard: [https://tinyurl.com/yp4dbkr5](https://tinyurl.com/yp4dbkr5)  
+Live Power BI Dashboard: https://shorturl.at/Ly9qY 
 GitHub Repository: [https://github.com/Bhakti261/Mobile-Sales](https://github.com/Bhakti261/Mobile-Sales)
 
 ## Author
